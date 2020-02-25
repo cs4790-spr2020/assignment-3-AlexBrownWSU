@@ -1,2 +1,2 @@
 # BlabberApp
-Teachers version of the BlabberAp
+Teacher's version of the BlabberApp
