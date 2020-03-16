@@ -90,3 +90,11 @@
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.csproj.CopyComplete
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.dll
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.pdb
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/bin/Debug/netcoreapp3.1/BlabberApp.ClientTest.deps.json
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/bin/Debug/netcoreapp3.1/BlabberApp.ClientTest.dll
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/bin/Debug/netcoreapp3.1/BlabberApp.ClientTest.pdb
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.AssemblyInfoInputs.cache
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.AssemblyInfo.cs
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.dll
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.pdb
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.ClientTest/obj/Debug/netcoreapp3.1/BlabberApp.ClientTest.csprojAssemblyReference.cache

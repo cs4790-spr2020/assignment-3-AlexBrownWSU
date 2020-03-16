@@ -90,3 +90,11 @@
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.dll
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.pdb
 /home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.csprojAssemblyReference.cache
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/bin/Debug/netcoreapp3.1/BlabberApp.WebApiTest.deps.json
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/bin/Debug/netcoreapp3.1/BlabberApp.WebApiTest.dll
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/bin/Debug/netcoreapp3.1/BlabberApp.WebApiTest.pdb
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.AssemblyInfoInputs.cache
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.AssemblyInfo.cs
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.dll
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.pdb
+/Users/alexbrown/Desktop/BlabberApp/BlabberApp/BlabberApp.WebApiTest/obj/Debug/netcoreapp3.1/BlabberApp.WebApiTest.csprojAssemblyReference.cache
